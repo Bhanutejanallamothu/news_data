@@ -53,7 +53,8 @@ news_data/
 ```
 
 ## Prerequisites
-- Python 3.10+ or Node.js 18+
+- Not required for the current repository contents.
+- If ingestion scripts are added, use Python 3.12+ or Node.js 22 LTS.
 
 ## Environment Variables
 *Not required.*
